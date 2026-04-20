@@ -20,19 +20,17 @@
 | review issue / PR / triage / 批量处理 | `skills/dev/check/SKILL.md` (Triage Mode) |
 | 报错 / 崩溃 / 测试失败 / 行为异常 / "为什么不工作" | `skills/dev/hunt/SKILL.md` |
 | Claude 忽略指令 / hook 失灵 / MCP 异常 / 配置审计 | `skills/dev/health/SKILL.md` |
+| 开发者视角 prose（PR / release notes / issue 评论）润色 | `skills/dev/write/SKILL.md` |
 
 ### ✍️ Writing（写作板块）
 
-输出文字时用。
-
-| 触发 | 技能 |
-|------|------|
-| 写作 / 改稿 / 润色 / 去 AI 味（中英文） | `skills/writing/write/SKILL.md` |
+输出非开发类长文时用。
 
 **待建**：
 - `skills/writing/makerlog/` — MakerLog 开发日志
 - `skills/writing/official-blog/` — roseau.app 官方博客
 - `skills/writing/research-note/` — 研究笔记输出
+- `skills/writing/publish-blog/` — 发布到 Quaily
 
 ### 📦 Product（产品板块）
 
@@ -79,5 +77,5 @@
 ```
 新功能 → /think (设计方案) → 实现 → /check (review) → 合并
 报错 → /hunt (诊断) → 修复 → /check (验证) → 提交
-研究长文 → /read (抓取) → /learn (深度研究) → /write (润色成稿)
+研究长文 → /read (抓取) → /learn (深度研究) → /dev/write (润色成稿)
 ```

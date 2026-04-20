@@ -7,8 +7,8 @@
 ```
 skills/
 ├── RESOLVER.md           -- 触发词到 skill 的路由表
-├── dev/                  -- 开发（think / check / hunt / design / health）
-├── writing/              -- 写作（write polish，未来: makerlog / official-blog / research-note）
+├── dev/                  -- 开发（think / check / hunt / design / health / write）
+├── writing/              -- 非开发类长文（未来: makerlog / official-blog / research-note / publish-blog）
 ├── product/              -- 产品（未来: research / decide / service-design）
 ├── life/                 -- 生活（未来: reading / watching / reflection）
 └── meta/                 -- 跨领域工具（read / learn）
@@ -32,7 +32,7 @@ scripts/
 | dev | hunt | Waza | 原版，待 Zac 化 |
 | dev | design | Waza | 原版，待 Zac 化 |
 | dev | health | Waza | 原版，待 Zac 化 |
-| writing | write | Waza | 原版，待 Zac 化 |
+| dev | write | Waza | 原版，待 Zac 化 |
 | meta | read | Waza | 原版，待 Zac 化 |
 | meta | learn | Waza | 原版，待 Zac 化 |
 
